@@ -1,1 +1,1 @@
-server '18.218.131.248', user: 'crime', roles: %w{app db web}
+server '18.222.197.162', user: 'crime', roles: %w{app db web}
